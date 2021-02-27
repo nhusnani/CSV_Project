@@ -56,13 +56,13 @@ for row in csv_file:
 
     
 
-print(highs)
+#print(highs)
 
 
     
 
-print(dates)
-print(lows)
+#print(dates)
+#print(lows)
 
 
 import matplotlib.pyplot as plt
